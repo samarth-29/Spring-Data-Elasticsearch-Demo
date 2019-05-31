@@ -1,4 +1,4 @@
-# Spring-Data-ElasticSearch Example
+# Spring-Data-ElasticSearch Demo
 
 ### What is Elasticsearch?
 
@@ -16,3 +16,8 @@
 
 
 If you want to know more details on the compatibility, please check this link: https://github.com/spring-projects/spring-data-elasticsearch/wiki/Spring-Data-Elasticsearch---Spring-Boot---version-matrix
+
+
+### Rest End-points
+
+ https://www.getpostman.com/collections/c3a231fe0e6933f5557d
